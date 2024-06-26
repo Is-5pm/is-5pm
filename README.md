@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
 <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-5pm&layout=compact)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=is-5pm&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 
